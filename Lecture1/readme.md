@@ -1,4 +1,4 @@
-<a herf='https://youtu.be/9Z3IZ2LFZxE?si=9DE_uDJ-bkoYEr5M'>clicke me to watch lec 1 </a>
+<a href='https://youtu.be/9Z3IZ2LFZxE?si=9DE_uDJ-bkoYEr5M'>clicke me to watch lec 1 </a>
 
 <img width="530" height="370" alt="image" src="https://github.com/user-attachments/assets/e3f47c4d-a9f8-4c8a-8048-3aa2ba462d92" />
 
